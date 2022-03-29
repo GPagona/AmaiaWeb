@@ -529,7 +529,7 @@ header .container-fluid nav{
   height: 100%;
   background-color: #3F5195;
   z-index: 100;
-  transform: translateY(100%);
+  transform: translateY(110%);
     -webkit-transition: all .8s cubic-bezier(.6,0,.41,1);
     -moz-transition: all .8s cubic-bezier(.6,0,.41,1);
     -o-transition: all .8s cubic-bezier(.6,0,.41,1);
